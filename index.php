@@ -35,7 +35,7 @@
 <body>
 <?php
     
-    $file = fopen('./php_cores/files/coreshtml.csv','r');
+    $file = fopen('./coreshtml.csv','r');
 
     while($data = fgetcsv($file, 1024, ';')){
         

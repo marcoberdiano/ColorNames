@@ -1,0 +1,480 @@
+Snow;#FFFAFA
+Ghost White;#F8F8FF
+White Smoke;#F5F5F5
+Gainsboro;#DCDCDC
+Floral White;#FFFAF0
+Old Lace;#FDF5E6
+Linen;#FAF0E6
+Antique White;#FAEBD7
+Papaya Whip;#FFEFD5
+Blanched Almond;#FFEBCD
+Bisque;#FFE4C4
+Peach Puff;#FFDAB9
+Navajo White;#FFDEAD
+Moccasin;#FFE4B5
+Cornsilk;#FFF8DC
+Ivory;#FFFFF0
+Lemon Chiffon;#FFFACD
+Seashell;#FFF5EE
+Honeydew;#F0FFF0
+Mint Cream;#F5FFFA
+Azure;#F0FFFF
+Alice Blue;#F0F8FF
+lavender;#E6E6FA
+Lavender Blush;#FFF0F5
+Misty Rose;#FFE4E1
+White;#FFFFFF
+Black;#000000
+Dark Slate Gray;#2F4F4F
+Dim Grey;#696969
+Slate Grey;#708090
+Light Slate Gray;#778899
+Grey;#BEBEBE
+Light Gray;#D3D3D3
+Midnight Blue;#191970
+Navy Blue;#000080
+Cornflower Blue;#6495ED
+Dark Slate Blue;#483D8B
+Slate Blue;#6A5ACD
+Medium Slate Blue;#7B68EE
+Light Slate Blue;#8470FF
+Medium Blue;#0000CD
+Royal Blue;#4169E1
+Blue;#0000FF
+Snow2;#EEE9E9
+Snow3;#CDC9C9
+Snow4;#8B8989
+Seashell 1;#FFF5EE
+Seashell 2;#EEE5DE
+Seashell 3;#CDC5BF
+Seashell 4;#8B8682
+Antique White 1;#FFEFDB
+Antique White 2;#EEDFCC
+Antique White 3;#CDC0B0
+Antique White 4;#8B8378
+Bisque 1;#FFE4C4
+Bisque 2;#EED5B7
+Bisque 3;#CDB79E
+Bisque 4;#8B7D6B
+Peach Puff 1;#FFDAB9
+Peach Puff 2;#EECBAD
+Peach Puff 3;#CDAF95
+Peach Puff 4;#8B7765
+Navajo White 1;#FFDEAD
+Navajo White 2;#EECFA1
+Navajo White 3;#CDB38B
+Navajo White 4;#8B795E
+Lemon Chiffon 1;#FFFACD
+Lemon Chiffon 2;#EEE9BF
+Lemon Chiffon 3;#CDC9A5
+Lemon Chiffon 4;#8B8970
+Cornsilk 1;#FFF8DC
+Cornsilk 2;#EEE8CD
+Cornsilk 3;#CDC8B1
+Cornsilk 4;#8B8878
+Ivory 1;#FFFFF0
+Ivory 2;#EEEEE0
+Ivory 3;#CDCDC1
+Ivory 4;#8B8B83
+Honeydew 1;#F0FFF0
+Honeydew 2;#E0EEE0
+Honeydew 3;#C1CDC1
+Honeydew 4;#838B83
+Lavender Blush 1;#FFF0F5
+Lavender Blush 2;#EEE0E5
+Lavender Blush 3;#CDC1C5
+Lavender Blush 4;#8B8386
+Firebrick 4;#8B1A1A
+Brown 1;#FF4040
+Brown 2;#EE3B3B
+Brown 3;#CD3333
+Brown 4;#8B2323
+Salmon 1;#FF8C69
+Salmon 2;#EE8262
+Salmon 3;#CD7054
+Salmon 4;#8B4C39
+Light Salmon 1;#FFA07A
+Light Salmon 2;#EE9572
+Light Salmon 3;#CD8162
+Light Salmon 4;#8B5742
+Orange 1;#FFA500
+Orange 2;#EE9A00
+Orange 3;#CD8500
+Orange 4;#8B5A00
+Dark Orange 1;#FF7F00
+Dark Orange 2;#EE7600
+Dark Orange 3;#CD6600
+Dark Orange 4;#8B4500
+Coral 1;#FF7256
+Coral 2;#EE6A50
+Coral 3;#CD5B45
+Coral 4;#8B3E2F
+Tomato 1;#FF6347
+Tomato 2;#EE5C42
+Tomato 3;#CD4F39
+Tomato 4;#8B3626
+Orange Red 1;#FF4500
+Orange Red 2;#EE4000
+Orange Red 3;#CD3700
+Orange Red 4;#8B2500
+Red 1 ;#FF0000
+Red 2 ;#EE0000
+Red 3 ;#CD0000
+Red 4 ;#8B0000
+Deep Pink 1;#FF1493
+Deep Pink 2;#EE1289
+Deep Pink 3;#CD1076
+Deep Pink 4;#8B0A50
+Hot Pink 1;#FF6EB4
+Hot Pink 2;#EE6AA7
+Gold 2;#EEC900
+Gold 4;#8B7500
+Goldenrod 1;#FFC125
+Goldenrod 2;#EEB422
+Goldenrod 3;#CD9B1D
+Goldenrod 4;#8B6914
+Dark Goldenrod1;#FFB90F
+Dark Goldenrod2;#EEAD0E
+Dark Goldenrod3;#CD950C
+Dark Goldenrod4;#8B658B
+Rosy Brown 1;#FFC1C1
+Rosy Brown 2;#EEB4B4
+Rosy Brown 3;#CD9B9B
+Rosy Brown 4;#8B6969
+Indian Red 1;#FF6A6A
+Indian Red 2;#EE6363
+Indian Red 3;#CD5555
+Indian Red 4;#8B3A3A
+Sienna 1;#FF8247
+Sienna 2;#EE7942
+Sienna 3;#CD6839
+Sienna 4;#8B4726
+Burlywood 1;#FFD39B
+Burlywood 2;#EEC591
+Burlywood 3;#CDAA7D
+Burlywood 4;#8B7355
+Wheat 1;#FFE7BA
+Wheat 2;#EED8AE
+Wheat 3;#CDBA96
+Wheat 4;#8B7E66
+Tan 1;#FFA54F
+Dodger Blue;#1E90FF
+Deep Sky Blue;#00BFFF
+Sky Blue;#87CEEB
+Light Sky Blue;#87CEFA
+Steel Blue;#4682B4
+Light Steel Blue;#B0C4DE
+Light Blue;#ADD8E6
+Powder Blue;#B0E0E6
+Pale Turquoise;#AFEEEE
+Dark Turquoise;#00CED1
+Medium Turquoise;#48D1CC
+Turquoise;#40E0D0
+Cyan;#00FFFF
+Light Cyan;#E0FFFF
+Cadet Blue;#5F9EA0
+Medium Aquamarine;#66CDAA
+Aquamarine;#7FFFD4
+Dark Green;#006400
+Dark Olive Green;#556B2F
+Dark Sea Green;#8FBC8F
+Sea Green;#2E8B57
+Medium Sea Green;#3CB371
+Light Sea Green;#20B2AA
+Pale Green;#98FB98
+Spring Green;#00FF7F
+Lawn Green;#7CFC00
+Green;#00FF00
+Chartreuse;#7FFF00
+Med Spring Green;#00FA9A
+Green Yellow;#ADFF2F
+Lime Green;#32CD32
+Yellow Green;#9ACD32
+Forest Green;#228B22
+Olive Drab;#6B8E23
+Dark Khaki;#BDB76B
+Pale Goldenrod;#EEE8AA
+Lt Goldenrod Yello;#FAFAD2
+Light Yellow;#FFFFE0
+Yellow;#FFFF00
+Gold;#FFD700
+Light Goldenrod;#EEDD82
+Goldenrod;#DAA520
+Dark Goldenrod;#B8860B
+Slate Gray 4;#6C7B8B
+Light Steel Blue 1;#CAE1FF
+Light Steel Blue 2;#BCD2EE
+Light Steel Blue 3;#A2B5CD
+Light Steel Blue 4;#6E7B8B
+Light Blue 1;#BFEFFF
+Light Blue 2;#B2DFEE
+Light Blue 3;#9AC0CD
+Light Blue 4;#68838B
+Light Cyan 1;#E0FFFF
+Light Cyan 2;#D1EEEE
+Light Cyan 3;#B4CDCD
+Light Cyan 4;#7A8B8B
+Pale Turquoise 1;#BBFFFF
+Pale Turquoise 2;#AEEEEE
+Pale Turquoise 3;#96CDCD
+Pale Turquoise 4;#668B8B
+Cadet Blue 1;#98F5FF
+Cadet Blue 2;#8EE5EE
+Cadet Blue 3;#7AC5CD
+Cadet Blue 4;#53868B
+Turquoise 1;#00F5FF
+Turquoise 2;#00E5EE
+Turquoise 3;#00C5CD
+Turquoise 4;#00868B
+Cyan 1;#00FFFF
+Cyan 2;#00EEEE
+Cyan 3;#00CDCD
+Cyan 4;#008B8B
+Dark SlateGray 1;#97FFFF
+Dark SlateGray 2;#8DEEEE
+Dark SlateGray 3;#79CDCD
+Dark SlateGray 4;#528B8B
+Aquamarine 1;#7FFFD4
+Aquamarine 2;#76EEC6
+Aquamarine 3;#66CDAA
+Aquamarine 4;#458B74
+Dark SeaGreen 1;#C1FFC1
+Dark SeaGreen 2;#B4EEB4
+Dark SeaGreen 3;#9BCD9B
+Dark SeaGreen 4;#698B69
+Sea Green 1;#54FF9F
+Sea Green 2;#4EEE94
+Hot Pink 3;#CD6090
+Hot Pink 4;#8B3A62
+Pink 1;#FFB5C5
+Pink 2;#EEA9B8
+Pink 3;#CD919E
+Pink 4;#8B636C
+Light Pink 1;#FFAEB9
+Light Pink 2;#EEA2AD
+Light Pink 3;#CD8C95
+Light Pink 4;#8B5F65
+Pale Violet Red 1;#FF82AB
+Pale Violet Red 2;#EE799F
+Pale Violet Red 3;#CD6889
+Pale Violet Red 4;#8B475D
+Maroon 1;#FF34B3
+Maroon 2;#EE30A7
+Maroon 3;#CD2990
+Maroon 4;#8B1C62
+Violet Red 1;#FF3E96
+Violet Red 2;#EE3A8C
+Violet Red 3;#CD3278
+Violet Red 4;#8B2252
+Magenta 1;#FF00FF
+Magenta 2;#EE00EE
+Magenta 3;#CD00CD
+Magenta 4;#8B008B
+Orchid 1;#FF83FA
+Orchid 2;#EE7AE9
+Orchid 3;#CD69C9
+Orchid 4;#8B4789
+Plum 1;#FFBBFF
+Plum 2;#EEAEEE
+Plum 3;#CD96CD
+Plum 4;#8B668B
+Medium Orchid 1;#E066FF
+Medium Orchid 2;#D15FEE
+Medium Orchid 3;#B452CD
+Medium Orchid 4;#7A378B
+Dark Orchid 1;#BF3EFF
+Dark Orchid 2;#B23AEE
+Dark Orchid 3;#9A32CD
+Dark Orchid 4;#68228B
+Purple 1;#9B30FF
+Purple 2;#912CEE
+Purple 3;#7D26CD
+Purple 4;#551A8B
+Medium Purple 1;#AB82FF
+Medium Purple 2;#9F79EE
+Medium Purple 3;#8968CD
+Medium Purple 4;#5D478B
+Thistle 1;#FFE1FF
+Thistle 2;#EED2EE
+Thistle 3;#CDB5CD
+Thistle 4;#8B7B8B
+Grey 11;#1C1C1C
+Grey 21;#363636
+Grey 31;#4F4F4F
+Grey 41;#696969
+Grey 51;#828282
+Grey 61;#9C9C9C
+Grey 71;#B5B5B5
+Gray 81;#CFCFCF
+Gray 91;#E8E8E8
+Dark Grey;#A9A9A9
+Dark Blue;#00008B
+Dark Cyan;#008B8B
+Dark Magenta;#8B008B
+Dark Red;#8B0000
+Light Green;#90EE90
+Chocolate 3;#CD661D
+Chocolate 4;#8B4513
+Firebrick 1;#FF3030
+Firebrick 2;#EE2C2C
+Firebrick 3;#CD2626
+Rosy Brown;#BC8F8F
+Indian Red;#CD5C5C
+Saddle Brown;#8B4513
+Sienna;#A0522D
+Peru;#CD853F
+Burlywood;#DEB887
+Beige;#F5F5DC
+Wheat;#F5DEB3
+Sandy Brown;#F4A460
+Tan;#D2B48C
+Chocolate;#D2691E
+Firebrick;#B22222
+Brown;#A52A2A
+Dark Salmon;#E9967A
+Salmon;#FA8072
+Light Salmon;#FFA07A
+Orange;#FFA500
+Dark Orange;#FF8C00
+Coral;#FF7F50
+Light Coral;#F08080
+Tomato;#FF6347
+Orange Red;#FF4500
+Red;#FF0000
+Hot Pink;#FF69B4
+Deep Pink;#FF1493
+Pink;#FFC0CB
+Light Pink;#FFB6C1
+Pale Violet Red;#DB7093
+Maroon;#B03060
+Medium Violet Red;#C71585
+Violet Red;#D02090
+Magenta;#FF00FF
+Violet;#EE82EE
+Plum;#DDA0DD
+Orchid;#DA70D6
+Medium Orchid;#BA55D3
+Dark Orchid;#9932CC
+Dark Violet;#9400D3
+Blue Violet;#8A2BE2
+Purple;#A020F0
+Medium Purple;#9370DB
+Thistle;#D8BFD8
+Snow 1;#FFFAFA
+Misty Rose 1;#FFE4E1
+Misty Rose 2;#EED5D2
+Misty Rose 3;#CDB7B5
+Misty Rose 4;#8B7D7B
+Azure 1;#F0FFFF
+Azure 2;#E0EEEE
+Azure 3;#C1CDCD
+Azure 4;#838B8B
+Slate Blue 1;#836FFF
+Slate Blue 2;#7A67EE
+Slate Blue 3;#6959CD
+Slate Blue 4;#473C8B
+Royal Blue 1;#4876FF
+Royal Blue 2;#436EEE
+Royal Blue 3;#3A5FCD
+Royal Blue 4;#27408B
+Blue 1;#0000FF
+Blue 2;#0000EE
+Blue 3;#0000CD
+Blue 4;#00008B
+Dodger Blue 1;#1E90FF
+Dodger Blue 2;#1C86EE
+Dodger Blue 3;#1874CD
+Dodger Blue 4;#104E8B
+Steel Blue 1;#63B8FF
+Steel Blue 2;#5CACEE
+Steel Blue 3;#4F94CD
+Steel Blue 4;#36648B
+Deep Sky Blue 1;#00BFFF
+Deep Sky Blue 2;#00B2EE
+Deep Sky Blue 3;#009ACD
+Deep Sky Blue 4;#00688B
+Sky Blue 1;#87CEFF
+Sky Blue 2;#7EC0EE
+Sky Blue 3;#6CA6CD
+Sky Blue 4;#4A708B
+Light Sky Blue 1;#B0E2FF
+Light Sky Blue 2;#A4D3EE
+Light Sky Blue 3;#8DB6CD
+Light Sky Blue 4;#607B8B
+Slate Gray 1;#C6E2FF
+Slate Gray 2;#B9D3EE
+Slate Gray 3;#9FB6CD
+Sea Green 3;#43CD80
+Sea Green 4;#2E8B57
+Pale Green 1;#9AFF9A
+Pale Green 2;#90EE90
+Pale Green 3;#7CCD7C
+Pale Green 4;#548B54
+Spring Green 1;#00FF7F
+Spring Green 2;#00EE76
+Spring Green 3;#00CD66
+Spring Green 4;#008B45
+Green 1;#00FF00
+Green 2;#00EE00
+Green 3;#00CD00
+Green 4;#008B00
+Chartreuse 1;#7FFF00
+Chartreuse 2;#76EE00
+Chartreuse 3;#66CD00
+Chartreuse 4;#458B00
+Olive Drab 1;#C0FF3E
+Olive Drab 2;#B3EE3A
+Olive Drab 3;#9ACD32
+Olive Drab 4;#698B22
+Dark Olive Green 1;#CAFF70
+Dark OliveGreen2;#BCEE68
+Dark OliveGreen3;#A2CD5A
+Dark OliveGreen4;#6E8B3D
+Khaki 1;#FFF68F
+Khaki 2;#EEE685
+Khaki 3;#CDC673
+Khaki 4;#8B864E
+Light Goldenrod 1;#FFEC8B
+Light Goldenrod 2;#EEDC82
+Light Goldenrod 3;#CDBE70
+Light Goldenrod 4;#8B814C
+Light Yellow 1;#FFFFE0
+Light Yellow 2;#EEEED1
+Light Yellow 3;#CDCDB4
+Light Yellow 4;#8B8B7A
+Yellow 1;#FFFF00
+Yellow 2;#EEEE00
+Yellow 3;#CDCD00
+Yellow 4;#8B8B00
+Gold 1;#FFD700
+Gold 3;#CDAD00
+Gold 4;#8B7500
+Goldenrod 1;#FFC125
+Goldenrod 2;#EEB422
+Goldenrod 3;#CD9B1D
+Goldenrod 4;#8B6914
+Dark Goldenrod 1;#FFB90F
+Dark Goldenrod 2;#EEAD0E
+Dark Goldenrod 3;#CD950C
+Dark Goldenrod 4;#8B658B
+Rosy Brown 1;#FFC1C1
+Rosy Brown 2;#EEB4B4
+Rosy Brown 3;#CD9B9B
+Rosy Brown 4;#8B6969
+Indian Red 1;#FF6A6A
+Indian Red 2;#EE6363
+Indian Red 3;#CD5555
+Indian Red 4;#8B3A3A
+Sienna 1;#FF8247
+Sienna 2;#EE7942
+Sienna 3;#CD6839
+Sienna 4;#8B4726
+Burlywood 1;#FFD39B
+Burlywood 2;#EEC591
+Burlywood 3;#CDAA7D
+Burlywood 4;#8B7355
+Tan 2;#EE9A49
+Tan 3;#CD853F
+Tan 4;#8B5A2B
+Chocolate 1;#FF7F24
+Chocolate 2;#EE7621
